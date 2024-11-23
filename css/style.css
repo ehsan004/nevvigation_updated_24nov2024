@@ -1,0 +1,57 @@
+body{
+background-color: blue;
+}
+
+h1{
+
+    color: blueviolet;
+}
+.navigation {
+
+background-color: aqua;
+border: 1px solid black;
+overflow: auto;
+
+
+}
+.navigation a  {
+
+    float: right;
+    text-decoration: none;
+    color: brown;
+    margin: 10px;
+    
+
+}
+.navigation li{
+
+    list-style: none;
+   
+}
+
+.headingContact h1{
+
+    color: white;
+
+
+}
+
+.headingBlog h4{
+
+    
+    color: brown;
+}
+
+.headingBlog h4:hover  {
+
+    color: red;
+}
+
+h4{
+
+    color: black;
+}
+
+
+
+
